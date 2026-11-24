@@ -1,0 +1,6 @@
+>  Go XY(0, 0, 0, 0, 0, 180) /3
+> 
+!!Error: 4007, Coordinates conversion error. The end/mid point is out of the motion area. Jogging to the out of the motion area.
+
+> Go XY(0, 0, 0, 0, 0, 180) / 3 
+> 
